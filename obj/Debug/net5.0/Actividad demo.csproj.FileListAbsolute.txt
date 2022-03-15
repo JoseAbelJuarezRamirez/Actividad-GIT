@@ -1,0 +1,16 @@
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\Actividad demo.exe
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\Actividad demo.deps.json
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\Actividad demo.runtimeconfig.json
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\Actividad demo.runtimeconfig.dev.json
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\Actividad demo.dll
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\ref\Actividad demo.dll
+C:\Users\josef\Desktop\Actividad demo\bin\Debug\net5.0\Actividad demo.pdb
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.csproj.AssemblyReference.cache
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.AssemblyInfoInputs.cache
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.AssemblyInfo.cs
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.csproj.CoreCompileInputs.cache
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.dll
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\ref\Actividad demo.dll
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.pdb
+C:\Users\josef\Desktop\Actividad demo\obj\Debug\net5.0\Actividad demo.genruntimeconfig.cache

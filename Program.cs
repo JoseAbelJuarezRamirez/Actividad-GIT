@@ -23,6 +23,8 @@ namespace Actividad_demo
                     Console.WriteLine(Alumnos + " numero: " + i + " Reprobados");
                 }
             }
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Fin de la lista");
             
         }
     }

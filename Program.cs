@@ -10,9 +10,15 @@ namespace Actividad_demo
             
             for (int i = 1; i < 11; i++)
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(Alumnos + " numero: " + i);
-
+                if((i % 2) == 0)
+                {
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine(Alumnos + " numero: " + i + " Aprobados");
+                }
+                else
+                {
+                    //Es un número impar
+                }
             }
             
         }

@@ -17,7 +17,8 @@ namespace Actividad_demo
                 }
                 else
                 {
-                    //Es un número impar
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine(Alumnos + " numero: " + i + " Reprobados");
                 }
             }
             

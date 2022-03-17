@@ -8,7 +8,9 @@ namespace Actividad_demo
         {
             string Alumnos = "Alumnos";
             
-            for (int i = 1; i < 11; i++)
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Universidad Autonoma de Occidente");
+            for (int i = 1; i < 21; i++)
             {
                 if((i % 2) == 0)
                 {
@@ -21,6 +23,8 @@ namespace Actividad_demo
                     Console.WriteLine(Alumnos + " numero: " + i + " Reprobados");
                 }
             }
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Fin de la lista");
             
         }
     }

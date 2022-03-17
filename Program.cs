@@ -10,7 +10,9 @@ namespace Actividad_demo
             
             for (int i = 1; i < 11; i++)
             {
-                Console.WriteLine(Alumnos + "Numero: " + i);
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(Alumnos + " numero: " + i);
+
             }
             
         }
